@@ -28,9 +28,5 @@ This Python script automates the process of running accessibility tests on web p
 ### Credentials:
 - A valid login URL, username, and password to authenticate on the website being tested (if required).
 
-## Installation
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-repo/accessibility-testing-script.git
 
